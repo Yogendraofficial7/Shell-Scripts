@@ -15,7 +15,7 @@ Country="India"
 	
 #where user is a Dynamic Variable
 	
-	echo -e "\n Hello! $user, Welcome to $Hyderabad class in $Country at $Location"
+	echo -e "\n Hello! $user, Welcome to $Place city and $Location cities in $country"
 	
 #where Location is a Environmental Variable
 
