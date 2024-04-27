@@ -5,17 +5,17 @@
 # -----------------------------
 
 
-Course="Devops"
-Institution="MNP_Technologies"
+Place="Hyderabad"
+Country="India"
 
-#where Course and Institution are Static Variables
+#where Place and Country are Static Variables
 
 	echo "Please Enter Username:"
 	read user
 	
 #where user is a Dynamic Variable
 	
-	echo -e "\n Hello! $user, Welcome to $Course class in $Institution at $Location"
+	echo -e "\n Hello! $user, Welcome to $Hyderabad class in $Country at $Location"
 	
 #where Location is a Environmental Variable
 
